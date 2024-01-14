@@ -246,9 +246,11 @@
 .last-section {
     margin: 70px auto 0 auto;
     width: 1100px;
+    justify-content: center;
+    align-items: center;
 }
 
-.l-h3 {
+.l-h3n {
     color: #070211;
     font-family: Inter;
     font-size: 24px;
@@ -257,7 +259,7 @@
     margin-bottom: 0;
 }
 
-.l-h2 {
+.l-h2n {
     color: #070211;
     font-family: Merriweather;
     font-size: 72px;
@@ -266,6 +268,7 @@
     margin-top: 10px;
     margin-bottom: 0;
 }
+
 
 .l-c {
     color: #F00;
